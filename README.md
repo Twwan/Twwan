@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Twwan
-- 👀 I’m interested in Python, C/C++
+- 👀 I’m interested in Programming
 - 💞️ I’m looking to collaborate on Google
