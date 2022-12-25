@@ -25,7 +25,7 @@
 ### :hammer_and_wrench: Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/pycharm-icon-256x256-u1s71yzt.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://www.sublimehq.com/images/sublime_text.png" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="PyQt5" alt="PyQt5" width="40" height="40"/>&nbsp;
