@@ -12,7 +12,7 @@
   <a href="https://steamcommunity.com/id/twwan/">
     <img src="https://img.shields.io/badge/Steam-0F1932?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="">
+  <a href="https://apps.rustore.ru/developer/golq42">
     <img src="https://img.shields.io/badge/RuStore-0079FF?style=for-the-badge&logo=RuStore&logoColor=white" alt="RuStore Badge"/>
   </a>
 </div>
