@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Steam-0F1932?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/RuStore?style=for-the-badge&logo=steam&logoColor=white" alt="RuStore Badge"/>
+    <img src="https://img.shields.io/badge/RuStore-blue?style=for-the-badge&logo=steam&logoColor=white" alt="RuStore Badge"/>
   </a>
 </div>
 
