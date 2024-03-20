@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/tic-tac-toe-cloudamite-tic-tac-toe-yellow-Awg0daMM4WxO9ee5vF/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
