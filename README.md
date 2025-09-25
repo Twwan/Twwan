@@ -1,3 +1,5 @@
+### Hello 👋
+
 <div id="badges" align="left">
   <a href="https://t.me/bboy55">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -24,26 +26,30 @@
 
 ### :hammer_and_wrench: Languages:
 
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,html,python,react&theme=dark)](https://dimitridessus.fr/)
+<!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-
+-->
 ### :hammer_and_wrench: Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,firebase,figma,unity&theme=dark)](https://dimitridessus.fr/) 
+<!--
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://www.sublimehq.com/images/sublime_text.png" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="45" height="45"/>&nbsp;
 </div>
-
+-->
 ### :fire: Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Twwan&theme=merko&border_radius=5.55&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twwan&theme=merko&show_icons=true&border_radius=5.55)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twwan&rank_icon=github\&show_icons=true&hide=contribs,issues&theme=dark&card_width=485)
 
-
+<img align='center' src="https://github-profile-trophy.vercel.app/?username=Twwan&theme=darkhub&margin-w=15&margin-h=15&column=4&margin-w=15&margin-h=15&rank=-C&title=-Followers,-Issues,-Reviews">
