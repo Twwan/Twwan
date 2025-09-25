@@ -26,7 +26,7 @@
 
 ### :hammer_and_wrench: Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,html,python,react&theme=dark)](https://dimitridessus.fr/)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,html,python,react&theme=dark)](https://github.com/Twwan)
 <!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@
 -->
 ### :hammer_and_wrench: Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,firebase,figma,unity&theme=dark)](https://dimitridessus.fr/) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,firebase,figma,unity&theme=dark)](https://github.com/Twwan) 
 <!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="45" height="45"/>&nbsp;
