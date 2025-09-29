@@ -50,6 +50,6 @@
 -->
 ### :fire: Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twwan&rank_icon=github\&show_icons=true&hide=contribs,issues&theme=dark&card_width=485)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twwan&rank_icon=github\&show_icons=true&hide=contribs,issues&theme=dark&card_width=485&include_all_commits=true)
 
 <img align='center' src="https://github-profile-trophy.vercel.app/?username=Twwan&theme=darkhub&margin-w=15&margin-h=15&column=4&margin-w=15&margin-h=15&rank=-C&title=-Followers,-Issues,-Reviews">
