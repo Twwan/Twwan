@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:twwan@inbox.ru">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   </div>
   
   <div id="badges" align="left">
@@ -15,12 +15,16 @@
   </a>
   <a href="https://play.google.com/store/apps/dev?id=7097032456806098299">
     <img src="https://img.shields.io/badge/GooglePlay-414141?style=for-the-badge&logo=GooglePlay" alt="Google Play Badge"/>
-  </a>
 </div>
 
 <div id="header" align="left">
   <a href="https://chromewebstore.google.com/detail/swagger-checker/alabcibcjeiiaaohlcndccljgoafgohn">
     <img src="https://img.shields.io/chrome-web-store/v/alabcibcjeiiaaohlcndccljgoafgohn?style=for-the-badge&label=Swagger%20Checker&link=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2Fswagger-checker%2Falabcibcjeiiaaohlcndccljgoafgohn" alt="Chrome Web Store Badge"/>
+  </a>
+</div>
+<div id="header" align="left">
+  <a href="https://pub.dev/packages/status_bar_tap">
+    <img src="https://img.shields.io/pub/points/status_bar_tap?style=for-the-badge&label=status_bar_tap&link=https%3A%2F%2Fpub.dev%2Fpackages%2Fstatus_bar_tap" alt="pub.dev"/>
   </a>
 </div>
 
