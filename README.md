@@ -10,11 +10,16 @@
   </div>
   
   <div id="badges" align="left">
-  <a href="https://apps.rustore.ru/developer/golq42">
-    <img src="https://img.shields.io/badge/RuStore-0079FF?style=for-the-badge&logo=RuStore&logoColor=white" alt="RuStore Badge"/>
+  <a href="https://apps.apple.com/us/developer/miron-neborskii/id1854743130">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="AppStore Badge"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=7097032456806098299">
     <img src="https://img.shields.io/badge/GooglePlay-414141?style=for-the-badge&logo=GooglePlay" alt="Google Play Badge"/>
+  </a>
+  <a href="https://apps.rustore.ru/developer/golq42">
+    <img src="https://img.shields.io/badge/RuStore-0079FF?style=for-the-badge&logo=RuStore&logoColor=white" alt="RuStore Badge"/>
+  </a>
+    
 </div>
 
 <div id="header" align="left">
